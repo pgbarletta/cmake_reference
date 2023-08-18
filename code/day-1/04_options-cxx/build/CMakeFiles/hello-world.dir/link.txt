@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hello-world.dir/hello-world.cpp.o -o hello-world  -Wl,-rpath,/home/pbarletta/cmake-workshop/content/code/day-1/04_options-cxx/build libmessage-shared.so 

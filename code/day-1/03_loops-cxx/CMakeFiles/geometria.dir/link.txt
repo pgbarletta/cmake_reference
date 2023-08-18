@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeometria.a CMakeFiles/geometria.dir/geometry_circle.cpp.o CMakeFiles/geometria.dir/geometry_polygon.cpp.o CMakeFiles/geometria.dir/geometry_rhombus.cpp.o CMakeFiles/geometria.dir/geometry_square.cpp.o
+/usr/bin/ranlib libgeometria.a

@@ -1,0 +1,3 @@
+/home/pbarletta/cmake-workshop/content/code/day-1/19_check_compiler_flag/build/CMakeFiles/rebuild_cache.dir
+/home/pbarletta/cmake-workshop/content/code/day-1/19_check_compiler_flag/build/CMakeFiles/edit_cache.dir
+/home/pbarletta/cmake-workshop/content/code/day-1/19_check_compiler_flag/build/CMakeFiles/asan-example.dir

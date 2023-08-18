@@ -1,0 +1,3 @@
+/home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/build/CMakeFiles/rebuild_cache.dir
+/home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/build/CMakeFiles/edit_cache.dir
+/home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/build/CMakeFiles/test.dir

@@ -1,0 +1,4 @@
+/home/pbarletta/cmake-workshop/content/code/day-1/01_libraries-cxx/build/CMakeFiles/rebuild_cache.dir
+/home/pbarletta/cmake-workshop/content/code/day-1/01_libraries-cxx/build/CMakeFiles/edit_cache.dir
+/home/pbarletta/cmake-workshop/content/code/day-1/01_libraries-cxx/build/CMakeFiles/mio.dir
+/home/pbarletta/cmake-workshop/content/code/day-1/01_libraries-cxx/build/CMakeFiles/mensaje.dir

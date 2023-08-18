@@ -1,0 +1,7 @@
+benchmark-a 1 0.55372
+benchmark-b 1 0.531023
+feature-a 1 0.162489
+feature-b 1 0.134717
+feature-c 1 0.160422
+feature-d 1 0.539773
+---

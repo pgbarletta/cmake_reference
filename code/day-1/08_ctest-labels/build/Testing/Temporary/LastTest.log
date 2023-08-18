@@ -1,0 +1,93 @@
+Start testing: Aug 17 15:10 -03
+----------------------------------------------------------
+1/6 Testing: benchmark-a
+1/6 Test: benchmark-a
+Command: "/home/pbarletta/mambaforge/bin/python3.10" "/home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/test/benchmark-a.py"
+Directory: /home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/build
+"benchmark-a" start time: Aug 17 15:10 -03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.55 sec
+----------------------------------------------------------
+Test Passed.
+"benchmark-a" end time: Aug 17 15:10 -03
+"benchmark-a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: benchmark-b
+2/6 Test: benchmark-b
+Command: "/home/pbarletta/mambaforge/bin/python3.10" "/home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/test/benchmark-b.py"
+Directory: /home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/build
+"benchmark-b" start time: Aug 17 15:10 -03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.53 sec
+----------------------------------------------------------
+Test Passed.
+"benchmark-b" end time: Aug 17 15:10 -03
+"benchmark-b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: feature-a
+3/6 Test: feature-a
+Command: "/home/pbarletta/mambaforge/bin/python3.10" "/home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/test/feature-a.py"
+Directory: /home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/build
+"feature-a" start time: Aug 17 15:10 -03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"feature-a" end time: Aug 17 15:10 -03
+"feature-a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: feature-b
+4/6 Test: feature-b
+Command: "/home/pbarletta/mambaforge/bin/python3.10" "/home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/test/feature-b.py"
+Directory: /home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/build
+"feature-b" start time: Aug 17 15:10 -03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"feature-b" end time: Aug 17 15:10 -03
+"feature-b" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: feature-c
+5/6 Test: feature-c
+Command: "/home/pbarletta/mambaforge/bin/python3.10" "/home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/test/feature-c.py"
+Directory: /home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/build
+"feature-c" start time: Aug 17 15:10 -03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"feature-c" end time: Aug 17 15:10 -03
+"feature-c" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: feature-d
+6/6 Test: feature-d
+Command: "/home/pbarletta/mambaforge/bin/python3.10" "/home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/test/feature-d.py"
+Directory: /home/pbarletta/cmake-workshop/content/code/day-1/08_ctest-labels/build
+"feature-d" start time: Aug 17 15:10 -03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.54 sec
+----------------------------------------------------------
+Test Passed.
+"feature-d" end time: Aug 17 15:10 -03
+"feature-d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 17 15:10 -03

@@ -1,0 +1,3 @@
+/home/pbarletta/cmake-workshop/content/code/day-1/03_loops-cxx/CMakeFiles/rebuild_cache.dir
+/home/pbarletta/cmake-workshop/content/code/day-1/03_loops-cxx/CMakeFiles/edit_cache.dir
+/home/pbarletta/cmake-workshop/content/code/day-1/03_loops-cxx/CMakeFiles/geometria.dir
