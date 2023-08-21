@@ -1,0 +1,2 @@
+/usr/bin/ar qc libINITIAL.a CMakeFiles/INITIAL.dir/initial.cpp.o
+/usr/bin/ranlib libINITIAL.a

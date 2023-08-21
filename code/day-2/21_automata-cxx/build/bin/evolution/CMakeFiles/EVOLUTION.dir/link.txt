@@ -1,0 +1,2 @@
+/usr/bin/ar qc libEVOLUTION.a CMakeFiles/EVOLUTION.dir/evolution.cpp.o
+/usr/bin/ranlib libEVOLUTION.a

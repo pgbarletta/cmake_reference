@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/AUTOMATA.dir/main.cpp.o -o AUTOMATA  evolution/libEVOLUTION.a initial/libINITIAL.a io/libIO.a parser/libPARSER.a ../external/libCONVERSION.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sumtest.dir/test.cpp.o -o sumtest  libsum_integers.a 
